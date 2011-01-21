@@ -1,0 +1,14 @@
+Web/*Publish.xml
+Logs
+App_Data
+obj
+bin
+WorkingTemp
+_ReSharper.*
+*.csproj.user
+*.resharper.user
+*.resharper
+*.suo
+*.cache
+~$*
+CommonAssemblyInfo.cs
